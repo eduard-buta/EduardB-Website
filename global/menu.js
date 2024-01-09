@@ -1,3 +1,4 @@
+console.log("Propagation test");
 document.addEventListener("DOMContentLoaded", () => {
   // Global Breakpoints
   let windowWidth = window.innerWidth;
